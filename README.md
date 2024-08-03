@@ -17,7 +17,7 @@ Dash is a platform for fast, secure file sharing. Users can upload files and eas
 
 ## Features
 
-- Send files quickly without any login or logout
+- Send files quickly without logging in our signing up
 - Send files anonymously
 - No loss of quality in files
 
