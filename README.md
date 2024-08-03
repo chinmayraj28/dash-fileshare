@@ -8,7 +8,7 @@ Dash is a platform for fast, secure file sharing. Users can upload files and eas
 
 **Check It Out Here**: [https://dash-6qw6b.ondigitalocean.app/](https://dash-6qw6b.ondigitalocean.app/)
 
-```Note: Source Code is NOT released.```
+```Note: Source Code is NOT available.```
 
 ## Authors
 
